@@ -1,6 +1,10 @@
 var searchData=
 [
-  ['document',['Document',['../mvc_8h.html#aea58601e300edcb6cdca4e7fe3d9701a',1,'mvc.h']]],
-  ['draw',['draw',['../classAbstractPrimitive.html#acfd48626583a4aab637257b79632a618',1,'AbstractPrimitive::draw()'],['../classRectangle.html#a8339715d8e96e6968e8c25977199271d',1,'Rectangle::draw()'],['../classCircle.html#a22b102d53b83fcb4a0c6468f8a52c1cb',1,'Circle::draw()']]],
-  ['drawprimitives',['drawPrimitives',['../classView.html#a5098827b3386326e0364d85785de05a3',1,'View']]]
+  ['circle',['Circle',['../classCircle.html',1,'Circle'],['../classCircle.html#ad1ecfcfc7bf34529c6a6d6c448bf70fe',1,'Circle::Circle()'],['../classCircle.html#a65e4539a9c3116143495e9b7a3c3af84',1,'Circle::Circle(int x, int y, int radius)']]],
+  ['cleardocument',['clearDocument',['../classModel.html#a1e65322c297ded2497c8b8b02615193c',1,'Model']]],
+  ['clearview',['clearView',['../classView.html#ac4e362b011a751bd713045d1f56a74ae',1,'View']]],
+  ['color',['Color',['../primitives_8h.html#ab87bacfdad76e61b9412d7124be44c1c',1,'primitives.h']]],
+  ['controller',['Controller',['../classController.html',1,'Controller'],['../classController.html#afbee4232973087787252abd0f1e9b566',1,'Controller::Controller()']]],
+  ['controllerptr',['ControllerPtr',['../mvc_8h.html#a2d4a405eee06f01ae6e361c77a57f709',1,'mvc.h']]],
+  ['createnewdocument',['createNewDocument',['../classController.html#a5f3b506633ab93f9379ecf9b1d4b4b7c',1,'Controller']]]
 ];

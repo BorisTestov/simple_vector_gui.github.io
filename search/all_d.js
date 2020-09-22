@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['y',['y',['../classAbstractPrimitive.html#ab8d46b82d1ee984b7618e421b94471e0',1,'AbstractPrimitive']]]
+  ['_7eabstractprimitive',['~AbstractPrimitive',['../classAbstractPrimitive.html#aa2d3fcc421932a4cd1cf61c22ab5d9b7',1,'AbstractPrimitive']]]
 ];
